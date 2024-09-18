@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lootlab.pl.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "88.25%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.25%",
-    "uptimeMonth": "88.25%",
-    "uptimeYear": "88.25%",
-    "time": 141,
-    "timeDay": 221,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
-    "dailyMinutesDown": {
-      "2024-09-15": 255
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 122,
+    "timeDay": 62,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.lootlab.pl.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "88.26%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.26%",
-    "uptimeMonth": "88.26%",
-    "uptimeYear": "88.26%",
-    "time": 112,
-    "timeDay": 71,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
-    "dailyMinutesDown": {
-      "2024-09-15": 255
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 107,
+    "timeDay": 89,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
+    "dailyMinutesDown": {}
   }
 ]
